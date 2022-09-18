@@ -1,13 +1,10 @@
 
 
-Hey there, I’m Sreya! 👋 
+Hey there, I’m Sreya! 
 
-🥽 I’m interested in computer science, chemistry, and biology!
-And I’m looking to collaborate on computational chemistry and biology projects! 🌱 
+I'm a student at the University of Michigan studying computer science and chemistry!
 
-🥚 I’m currently trying to figure out how to salt an omelette perfectly.
-
-📫 Reach me at gosreya@umich.edu
+Reach me at gosreya@umich.edu
 
 
 <!---
